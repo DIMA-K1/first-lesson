@@ -1,4 +1,4 @@
-number = int(input("Enter your number: ")) #46851
+number = int(input("Enter your number: "))
 
 n1 = number // 10000
 n2 = number % 10000 // 1000
